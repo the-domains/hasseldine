@@ -1,0 +1,28 @@
+name: hasseldine
+favicon: null
+layout_spectrum: 0.49136535357683897
+typography_spectrum: 0.5162738231010735
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.4088123475667089
+  lightness: 0.7739099517930299
+  saturation: 0.4440751331858337
+  rhythmicContrast: 0.63778305798769
+purpose: []
