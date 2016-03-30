@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[personal and professional musings on humanity, education, science and technology]]></title>
         <description><![CDATA[personal and professional musings on humanity, education, science and technology]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/hasseldine/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Mar 2016 02:23:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 30 Mar 2016 03:50:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hasseldine/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>THE WHAT: Scientist, teacher, father, cyclist (chronologically speaking)</p>]]></description>
-            <link>undefinedthe-what-scientist-teacher-father-cyclist-chronological/index.html</link>
+            <link>https://thegrid.ai/hasseldine/the-what-scientist-teacher-father-cyclist-chronological/index.html</link>
             <guid isPermaLink="false">3cd27dee-f279-40a7-834b-2404918fc608</guid>
-            <pubDate>Wed, 30 Mar 2016 02:23:38 GMT</pubDate>
+            <pubDate>Wed, 30 Mar 2016 03:50:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
